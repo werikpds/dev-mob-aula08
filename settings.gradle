@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='dmic_aula08_chat_firebase_2'

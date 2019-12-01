@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "38782105527",
+    "firebase_url": "https://dmicaula08chatfirebase2.firebaseio.com",
+    "project_id": "dmicaula08chatfirebase2",
+    "storage_bucket": "dmicaula08chatfirebase2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38782105527:android:626ef4940a4f4f0f86da32",
+        "android_client_info": {
+          "package_name": "rafsanches.com.br.dmic_aula08_chat_firebase_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38782105527-auerej5bv379qqm8phhgdrdhv2ht6u8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rafsanches.com.br.dmic_aula08_chat_firebase_2",
+            "certificate_hash": "3805b7c49d183249523b350d6c3d53fbab302cb7"
+          }
+        },
+        {
+          "client_id": "38782105527-otpsuclvu4j6f3ho0u8dd1sic4v1ngh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9e6DFuxQeosLpPW69I3WyVM_BYTwc2yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38782105527-otpsuclvu4j6f3ho0u8dd1sic4v1ngh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
